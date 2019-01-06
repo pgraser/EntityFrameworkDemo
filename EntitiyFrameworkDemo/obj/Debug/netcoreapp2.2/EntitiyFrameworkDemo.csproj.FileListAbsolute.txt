@@ -1,0 +1,11 @@
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\EntitiyFrameworkDemo\EntitiyFrameworkDemo\bin\Debug\netcoreapp2.2\EntitiyFrameworkDemo.deps.json
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\EntitiyFrameworkDemo\EntitiyFrameworkDemo\bin\Debug\netcoreapp2.2\EntitiyFrameworkDemo.runtimeconfig.json
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\EntitiyFrameworkDemo\EntitiyFrameworkDemo\bin\Debug\netcoreapp2.2\EntitiyFrameworkDemo.runtimeconfig.dev.json
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\EntitiyFrameworkDemo\EntitiyFrameworkDemo\bin\Debug\netcoreapp2.2\EntitiyFrameworkDemo.dll
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\EntitiyFrameworkDemo\EntitiyFrameworkDemo\obj\Debug\netcoreapp2.2\EntitiyFrameworkDemo.csprojAssemblyReference.cache
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\EntitiyFrameworkDemo\EntitiyFrameworkDemo\obj\Debug\netcoreapp2.2\EntitiyFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\EntitiyFrameworkDemo\EntitiyFrameworkDemo\obj\Debug\netcoreapp2.2\EntitiyFrameworkDemo.AssemblyInfoInputs.cache
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\EntitiyFrameworkDemo\EntitiyFrameworkDemo\obj\Debug\netcoreapp2.2\EntitiyFrameworkDemo.AssemblyInfo.cs
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\EntitiyFrameworkDemo\EntitiyFrameworkDemo\bin\Debug\netcoreapp2.2\EntitiyFrameworkDemo.pdb
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\EntitiyFrameworkDemo\EntitiyFrameworkDemo\obj\Debug\netcoreapp2.2\EntitiyFrameworkDemo.dll
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\EntitiyFrameworkDemo\EntitiyFrameworkDemo\obj\Debug\netcoreapp2.2\EntitiyFrameworkDemo.pdb
